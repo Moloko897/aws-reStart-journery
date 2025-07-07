@@ -17,5 +17,4 @@ To delete ALL rows from the country table,
 SET FOREIGN_KEY_CHECKS = 0;
 DELETE FROM world.country;
 
-## Reflection
-Database design is about reducing duplication and organizing data to match real-world relationships.
+
