@@ -1,0 +1,3 @@
+# Ignore temp or search index files
+FileContentIndex/
+*.visidx
