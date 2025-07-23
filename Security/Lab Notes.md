@@ -25,4 +25,9 @@ Use the IAM Policy Simulator to test whether the user can terminate instances.
 leading to frustrating errors like InvalidAMIID.NotFound
 
 ## Screenshot
-
+![(iam) user group created](https://github.com/user-attachments/assets/870effa7-a105-43c1-a456-8063a2502bb1)
+![(iam) user created](https://github.com/user-attachments/assets/e0a79edf-227f-4083-80e7-b2bed8be6f69) 
+![terminating instance (iam)](https://github.com/user-attachments/assets/b320ce81-f432-4e65-ad8b-e04722bf63f5) 
+![(IAM) validation](https://github.com/user-attachments/assets/7554318b-7d2d-4d9f-a44b-9cfe56b55a70) 
+![policy attached(solution)(iam)](https://github.com/user-attachments/assets/480aebe9-2b41-45c7-aea1-35675a2c667b)
+![validation complete](https://github.com/user-attachments/assets/bcd6f7a6-6136-44db-9d22-2c8d430ae5b0)
