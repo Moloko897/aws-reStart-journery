@@ -9,7 +9,7 @@ As a student of the AWS re/Start program, I’ve built a solid foundation in clo
 - [Storage](./storage/topic-notes.md)
 - [Databases](./databases/database-design.md)
 - [Resources](./resources/helpful-links.md)
-- [Security](./Security/topic-notes.md)
+- [Security](./Security/lab-notes.md)
 
 
 
