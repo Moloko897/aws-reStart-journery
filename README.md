@@ -10,7 +10,8 @@ As a student of the AWS re/Start program, I’ve built a solid foundation in clo
 - [Databases](./databases/database-design.md)
 - [Resources](./resources/helpful-links.md)
 - [Security](./Security/lab-notes.md)
-- [Certificates](https:/Moloko897/aws-restart-journery/blob/Certificates/certificates/Certificate.md)
+-  [Certificates](./Certificates/Certificates.md)
+- 
 
 
 
