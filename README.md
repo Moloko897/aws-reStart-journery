@@ -11,7 +11,7 @@ As a student of the AWS re/Start program, I’ve built a solid foundation in clo
 - [Resources](./resources/helpful-links.md)
 - [Security](./Security/lab-notes.md)
 -  [Certificates](./Certificates/Certificates.md)
-- 
+
 
 
 
