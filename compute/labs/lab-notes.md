@@ -37,9 +37,13 @@ Create a simple web page
 OUTPUT
 ![output](https://github.com/user-attachments/assets/e4780f9f-00e7-468a-bf63-979ee307ee12)
 
- Monitoring
- instance status monitoring, I can quickly determine whether Amazon EC2 has detected any problems that might prevent my instances from running applications. Amazon EC2 performs automated checks on every running EC2 instance to identify hardware and software issues.
+ #Monitoring
+with instance status monitoring, I can quickly determine whether Amazon EC2 has detected any problems that might prevent my instances from running applications. Amazon EC2 performs automated checks on every running EC2 instance to identify hardware and software issues.
 ![monitoring](https://github.com/user-attachments/assets/ef2d571c-ea3a-499c-9d3c-2ac466bf4696)
+
+Status check
+![status check passed](https://github.com/user-attachments/assets/b84537ee-c188-4828-8736-d9e8e03683b6)
+
 
 You can delete your instance when you no longer need it.
 You cannot connect to or restart an instance after it has been terminated.
