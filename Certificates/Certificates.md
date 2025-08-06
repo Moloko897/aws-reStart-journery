@@ -10,3 +10,4 @@
 <img width="1202" height="912" alt="auto healing and scaling" src="https://github.com/user-attachments/assets/2b2a252e-612d-4758-9c55-d370a8d28a7f" />
 <img width="1188" height="920" alt="NOSQL Database" src="https://github.com/user-attachments/assets/4091617d-e7d0-47c1-b2bc-853400179c8c" />
 <img width="1185" height="917" alt="Networking Concepts" src="https://github.com/user-attachments/assets/c3c2c24d-bba3-4e9d-800e-fda3c49806a6" />
+<img width="1186" height="913" alt="database in practice" src="https://github.com/user-attachments/assets/25956d1a-d28a-4528-986c-30389782fce4" />
