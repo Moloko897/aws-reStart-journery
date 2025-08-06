@@ -29,8 +29,8 @@ Update Rows in the table
 ![update rows in table](https://github.com/user-attachments/assets/ac189205-ba95-4480-8dea-08e19ed7194d) 
 
 Delete Data from the table
-![delete rows from a table](h![Import data using an SQL file](https://github.com/user-attachments/assets/c6ec0dad-c5e1-43cb-b3c8-efe688580bd6)
-ttps://github.com/user-attachments/assets/8d14f6e6-ebd4-4eb3-aa1a-7e2662dc4b55)
+![Import data using an SQL file](https://github.com/user-attachments/assets/c6ec0dad-c5e1-43cb-b3c8-efe688580bd6)
+
 
 
 
