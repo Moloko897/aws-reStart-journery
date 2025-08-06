@@ -25,8 +25,9 @@ DELETE FROM world.country;
 Insert Data into data table
 ![inserting data into a data table](https://github.com/user-attachments/assets/5aaf093a-6572-402c-82d8-964fc721055f) 
 
+
 Update Rows in the table
-![update rows in table](https://github.com/user-attachments/assets/ac189205-ba95-4480-8dea-08e19ed7194d) 
+![update rows](https://github.com/user-attachments/assets/5eae9123-e394-4a77-b4d3-a5303732e53f)
 
 Delete Data from the table
 ![Import data using an SQL file](https://github.com/user-attachments/assets/c6ec0dad-c5e1-43cb-b3c8-efe688580bd6)
