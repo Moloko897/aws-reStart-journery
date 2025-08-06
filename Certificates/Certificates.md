@@ -1,23 +1,12 @@
-[auto healing and scaling certificate.pdf](https://github.com/user-attachments/files/21600791/auto.healing.and.scaling.certificate.pdf)
-
-[semulation solution cert.pdf](https://github.com/user-attachments/files/21600812/semulation.solution.cert.pdf)
-
-[no sql database certificate.pdf](https://github.com/user-attachments/files/21600811/no.sql.database.certificate.pdf)
-
-[networking concepts.pdf](https://github.com/user-attachments/files/21600810/networking.concepts.pdf)
-
-[highly available web application certificate.pdf](https://github.com/user-attachments/files/21600809/highly.available.web.application.certificate.pdf)
-
-[file system in the cloud Cert.pdf](https://github.com/user-attachments/files/21600808/file.system.in.the.cloud.Cert.pdf)
-
-[cloud practitioner cloud certificate.pdf](https://github.com/user-attachments/files/21600807/cloud.practitioner.cloud.certificate.pdf)
-
-[cloud first steps certificate.pdf](https://github.com/user-attachments/files/21600805/cloud.first.steps.certificate.pdf)
-
-[cloud economics certificate.pdf](https://github.com/user-attachments/files/21600804/cloud.economics.certificate.pdf)
-
-[cloud computing Essentials certificate.pdf](https://github.com/user-attachments/files/21600803/cloud.computing.Essentials.certificate.pdf)
-
-[aws technical essential cert.pdf](https://github.com/user-attachments/files/21600802/aws.technical.essential.cert.pdf)
-
-[aws security fundamentals cert.pdf](https://github.com/user-attachments/files/21600801/aws.security.fundamentals.cert.pdf)
+<img width="1192" height="928" alt="Highly Available Web Application" src="https://github.com/user-attachments/assets/22194841-e25b-4351-b0d9-d6176666a386" />
+<img width="1187" height="923" alt="File System in the Cloud" src="https://github.com/user-attachments/assets/b386bbf7-0616-4561-bcef-153c11d9874c" />
+<img width="1187" height="923" alt="Encyption Fundamental" src="https://github.com/user-attachments/assets/b9b31712-d4bc-4d94-92d3-e6718ed06ce1" />
+<img width="1192" height="920" alt="Computing Solutions" src="https://github.com/user-attachments/assets/235f70fb-91c2-4152-87fb-e8071fd3ab87" />
+<img width="1188" height="922" alt="Cloud Practitioner essentials" src="https://github.com/user-attachments/assets/3ad97d16-021f-472e-99ab-c851fb54bdab" />
+<img width="1187" height="921" alt="Cloud First Steps" src="https://github.com/user-attachments/assets/02f3b880-e758-40fc-a711-2c5bd20a7df6" />
+<img width="1192" height="927" alt="AWS Technical essentials" src="https://github.com/user-attachments/assets/13fbabd7-6d93-4895-a78c-9505451a1f76" />
+<img width="1187" height="917" alt="AWS Cloud Economics" src="https://github.com/user-attachments/assets/cfaed076-8966-4176-925d-d197391a0ea0" />
+<img width="1186" height="923" alt="AWs Cloud Computing Essentials" src="https://github.com/user-attachments/assets/0294d145-0c4a-4d8c-b6c6-e423d7b8536b" />
+<img width="1202" height="912" alt="auto healing and scaling" src="https://github.com/user-attachments/assets/2b2a252e-612d-4758-9c55-d370a8d28a7f" />
+<img width="1188" height="920" alt="NOSQL Database" src="https://github.com/user-attachments/assets/4091617d-e7d0-47c1-b2bc-853400179c8c" />
+<img width="1185" height="917" alt="Networking Concepts" src="https://github.com/user-attachments/assets/c3c2c24d-bba3-4e9d-800e-fda3c49806a6" />
