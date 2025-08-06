@@ -32,11 +32,11 @@ Configure the web server to automatically start on boot,
 Activate the Web server and
 Create a simple web page
 
-#!/bin/bash
+"#!/bin/bash
 yum -y install httpd
 systemctl enable httpd
 systemctl start httpd
-echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.html
+echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.html"
 
 OUTPUT
 ![output](https://github.com/user-attachments/assets/e4780f9f-00e7-468a-bf63-979ee307ee12)
