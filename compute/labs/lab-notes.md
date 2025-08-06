@@ -27,9 +27,9 @@ successfully Launched a web server with termination protection enabled
 Modify the security group that my web server is using to allow HTTP access
 ![security group added](https://github.com/user-attachments/assets/ad3a3611-ddfa-4ed3-a802-3c3c34a4cdd9)
 
-used the below script to: Install an Apache web server (httpd)
-Configure the web server to automatically start on boot
-Activate the Web server
+used the below script to: Install an Apache web server (httpd),
+Configure the web server to automatically start on boot,
+Activate the Web server and
 Create a simple web page
 
 #!/bin/bash
