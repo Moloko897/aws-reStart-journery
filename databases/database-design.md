@@ -22,10 +22,15 @@ SET FOREIGN_KEY_CHECKS = 0;
 DELETE FROM world.country;
 ```
 ## Screenshot
+Insert Data into data table
 ![inserting data into a data table](https://github.com/user-attachments/assets/5aaf093a-6572-402c-82d8-964fc721055f) 
+
+Update Rows in the table
 ![update rows in table](https://github.com/user-attachments/assets/ac189205-ba95-4480-8dea-08e19ed7194d) 
+
+Delete Data from the table
 ![delete rows from a table](h![Import data using an SQL file](https://github.com/user-attachments/assets/c6ec0dad-c5e1-43cb-b3c8-efe688580bd6)
 ttps://github.com/user-attachments/assets/8d14f6e6-ebd4-4eb3-aa1a-7e2662dc4b55)
-![Import data using an SQL file](https://github.com/user-attachments/assets/80da4992-ef6f-4d29-b67d-3633134c4958)
+
 
 
