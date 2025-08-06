@@ -1,4 +1,4 @@
-# Compute Lab: Introduction to Amazon EC2
+<img width="942" height="161" alt="image" src="https://github.com/user-attachments/assets/f4c49d05-a53a-4b9c-841f-87c26619fd41" /># Compute Lab: Introduction to Amazon EC2
 
 ## Objective
 Learn how to do basic overview of launching, resizing, managing, and monitoring an Amazon EC2 instance.
@@ -32,11 +32,7 @@ Configure the web server to automatically start on boot,
 Activate the Web server and
 Create a simple web page
 
-"#!/bin/bash
-yum -y install httpd
-systemctl enable httpd
-systemctl start httpd
-echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.html"
+<img width="942" height="161" alt="Web script" src="https://github.com/user-attachments/assets/34847d87-4879-4376-b810-31c70f9fcbf0" />
 
 OUTPUT
 ![output](https://github.com/user-attachments/assets/e4780f9f-00e7-468a-bf63-979ee307ee12)
