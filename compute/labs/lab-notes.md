@@ -37,7 +37,8 @@ Create a simple web page
 OUTPUT
 ![output](https://github.com/user-attachments/assets/e4780f9f-00e7-468a-bf63-979ee307ee12)
 
- #Monitoring
+ ## Monitoring
+ 
 with instance status monitoring, I can quickly determine whether Amazon EC2 has detected any problems that might prevent my instances from running applications. Amazon EC2 performs automated checks on every running EC2 instance to identify hardware and software issues.
 ![monitoring](https://github.com/user-attachments/assets/ef2d571c-ea3a-499c-9d3c-2ac466bf4696)
 
