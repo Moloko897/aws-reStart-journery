@@ -1,7 +1,7 @@
-<img width="942" height="161" alt="image" src="https://github.com/user-attachments/assets/f4c49d05-a53a-4b9c-841f-87c26619fd41" /># Compute Lab: Introduction to Amazon EC2
+# Compute Lab: Introduction to Amazon EC2
 
 ## Objective
-Learn how to do basic overview of launching, resizing, managing, and monitoring an Amazon EC2 instance.
+Learn how to do basic overview of launching, resizing, managing,Terminating an instance and monitoring an Amazon EC2 instance.
 
 ## Steps Taken
 Launch a web server with termination protection enabled
