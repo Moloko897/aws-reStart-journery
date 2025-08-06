@@ -4,9 +4,9 @@
 To Insert, Update, and Delete Data in a Database
 
 ## Concepts Covered
-Insert rows into a table
-Update rows in a table
-Delete rows from a table
+Insert rows into a table,
+Update rows in a table,
+Delete rows from a table and
 Import rows from a database backup file
 
 ## Sample command
