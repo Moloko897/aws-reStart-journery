@@ -40,7 +40,8 @@ Conversation Flow Control – Ensuring branching logic delivered correct/incorre
 
 # Error: Couldn’t build language English (South Africa) in bot: SSSBot
 
-<img width="1907" height="878" alt="project error" src="https://github.com/user-attachments/assets/8f72d222-3eb0-4828-8e06-76a0cf91a474" />
+<img width="1918" height="915" alt="error" src="https://github.com/user-attachments/assets/76c8e1b0-bef9-4133-acf1-20cacb0a8a0a" />
+
 
 # Solution
 -Checked Sample Utterances
