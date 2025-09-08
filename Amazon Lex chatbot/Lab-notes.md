@@ -64,11 +64,6 @@ Conversation Flow Control – Ensuring branching logic delivered correct/incorre
 <img width="1918" height="927" alt="initial interaction" src="https://github.com/user-attachments/assets/57267323-1571-48e5-b9a4-0052ea896fa2" />
 
 
-# Begin Quiz
-
-<img width="1890" height="895" alt="testing2" src="https://github.com/user-attachments/assets/a6e83453-8480-4e79-8696-d8eb7a4742b5" />
-
-
 # Response for the correct answer
 
 <img width="1906" height="882" alt="correct" src="https://github.com/user-attachments/assets/4f3297d6-fdf2-4b7c-98af-5ec68a7439a0" />
