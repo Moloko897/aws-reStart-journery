@@ -1,4 +1,5 @@
 #What is Amazon Lex Chatbot
+
 An Amazon Lex chatbot is a conversational interface you build using Amazon Lex, an AWS service that enables applications to understand voice and text input.
 An Amazon Lex chatbot is an AI-powered bot that can interact with users naturally, guide conversations, and perform tasks such as answering questions, running quizzes, booking services, or providing support without needing complex coding.
 
