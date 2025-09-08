@@ -13,7 +13,7 @@ The goal was to design a quiz chatbot in Amazon Lex for CloudLearners Inc. that:
 
 # Steps Taken
 
-Intent Creation - Built an intent called SSSBot with utterances such as “Start quiz”, “Hi, Tell me about S3”.
+Intent Creation - Built an intent called quiz with utterances such as “Start quiz”, “Hi, Tell me about S3”.
 
 Question Setup - Added the first multiple-choice question with answer slots (A/B/C).
 
