@@ -43,7 +43,6 @@ Branching Logic – Configuring conditional responses so the chatbot didn’t sk
 <img width="1907" height="878" alt="project error" src="https://github.com/user-attachments/assets/8f72d222-3eb0-4828-8e06-76a0cf91a474" />
 
 # Solution
-
 -Checked Sample Utterances
 -I used “Generate utterances,” but did not have Bedrock permissions, so i then deleted those and Added valid sample utterance for the intent  manually.
 -Saved  then Build the intent
