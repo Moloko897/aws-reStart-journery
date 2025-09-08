@@ -61,7 +61,7 @@ Conversation Flow Control – Ensuring branching logic delivered correct/incorre
   
 # initial interaction with the Bot
 
-<img width="1912" height="831" alt="testing 1" src="https://github.com/user-attachments/assets/148e640f-0f6d-4cca-899f-da0a3f8f54d3" />
+<img width="1918" height="927" alt="initial interaction" src="https://github.com/user-attachments/assets/57267323-1571-48e5-b9a4-0052ea896fa2" />
 
 
 # Begin Quiz
