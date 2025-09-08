@@ -27,9 +27,9 @@ Testing  - Build and Tested the bot in Lex console.
 
 # Challenges
 
-Slot Handling – Ensuring answer slots (A/B/C) captured user responses correctly instead of defaulting to Yes/No.
+Answer Slot Handling – Making sure multiple-choice responses (A/B/C) were captured correctly instead of defaulting to Yes/No.
 
-Branching Logic – Configuring conditional responses so the chatbot didn’t skip straight to the next question.
+Conversation Flow Control – Ensuring branching logic delivered correct/incorrect feedback before moving on to the next question.
 
 # Screenshot
 
@@ -54,7 +54,7 @@ Branching Logic – Configuring conditional responses so the chatbot didn’t sk
 
  Lex bot has been compiled (built) successfully.
 
-<img width="1890" height="895" alt="testing2" src="https://github.com/user-attachments/assets/c5155b03-2147-413f-a7d0-bd88df881d2f" />
+<img width="1918" height="918" alt="Build successfully" src="https://github.com/user-attachments/assets/d6808209-5262-4fbc-99b1-f11ce6111ddc" />
 
 
   # Bot Testing
