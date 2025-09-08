@@ -33,7 +33,7 @@ Conversation Flow Control – Ensuring branching logic delivered correct/incorre
 
 # Screenshot
 
-# Successfullu created an S3Bot
+# Successfully created an S3Bot
 
 <img width="1891" height="897" alt="s3Bot" src="https://github.com/user-attachments/assets/f967c48b-425e-41fb-8992-3d567b3b12a0" />
 
@@ -71,7 +71,7 @@ Conversation Flow Control – Ensuring branching logic delivered correct/incorre
 
 # Response for the correct answer
 
-<img width="1915" height="921" alt="correct answer" src="https://github.com/user-attachments/assets/5747c2a0-51e3-401d-8181-2134b53fa684" />
+<img width="1906" height="882" alt="correct" src="https://github.com/user-attachments/assets/4f3297d6-fdf2-4b7c-98af-5ec68a7439a0" />
 
 
 # response for incorrect answer
