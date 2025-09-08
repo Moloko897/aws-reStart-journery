@@ -13,7 +13,7 @@ The goal was to design a quiz chatbot in Amazon Lex for CloudLearners Inc. that:
 
 # Steps Taken
 
-Intent Creation - Built an intent called S3Quiz with utterances such as “Start quiz”, “Quiz me on S3”.
+Intent Creation - Built an intent called SSSBot with utterances such as “Start quiz”, “Hi, Tell me about S3”.
 
 Question Setup - Added the first multiple-choice question with answer slots (A/B/C).
 
@@ -44,7 +44,9 @@ Branching Logic – Configuring conditional responses so the chatbot didn’t sk
 
 # Solution
 -Checked Sample Utterances
+
 -I used “Generate utterances,” but did not have Bedrock permissions, so i then deleted those and Added valid sample utterance for the intent  manually.
+
 -Saved  then Build the intent
 
 
